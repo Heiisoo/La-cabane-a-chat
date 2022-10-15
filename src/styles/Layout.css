@@ -1,0 +1,13 @@
+.layout-inner {
+  display: flex;
+  flex-direction: row;
+}
+
+.title {
+  padding-left: 32px;
+}
+
+.logo {
+  height: 95px;
+  width: 165px;
+}
